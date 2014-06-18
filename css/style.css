@@ -1,8 +1,28 @@
 body {
-	background: grey;
-	
+	background-image: url('../img/dark_leather.png');
+	color: #cccccc;
 }
 
 h1 {
 
+}
+
+#title {
+	padding-top:15px;
+	padding-bottom: 20px;
+	color: #cccccc;
+
+}
+
+#contact-info {
+
+}
+
+#label-container {
+	padding-top: 15px;
+}
+
+#contact-label{
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
